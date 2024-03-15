@@ -14,12 +14,12 @@ export default function Technology() {
                 <p className='text-technology fs-5'>Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
             </div>
             <div className='div-technology d-flex flex-wrap justify-content-between'>
-                <img className='icon-technology' src={Html5} />
-                <img className='icon-technology' src={Css} />
-                <img className='icon-technology' src={Sass} />
-                <img className='icon-technology' src={Js} />
-                <img className='icon-technology' src={Angular} />
-                <img className='icon-technology' src={Python} />
+                <img className='icon-technology animate__delay-2s animate__animated animate__fadeInDown animate__slow' src={Html5} />
+                <img className='icon-technology animate__delay-2s animate__animated animate__fadeInDown animate__slower' src={Css} />
+                <img className='icon-technology animate__delay-2s animate__animated animate__fadeInDown animate__slow' src={Sass} />
+                <img className='icon-technology animate__delay-2s animate__animated animate__fadeInDown animate__slower' src={Js} />
+                <img className='icon-technology animate__delay-2s animate__animated animate__fadeInDown animate__slow' src={Angular} />
+                <img className='icon-technology animate__delay-2s animate__animated animate__fadeInDown animate__slower' src={Python} />
             </div>
         </div>
     </div>

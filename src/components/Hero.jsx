@@ -2,8 +2,8 @@ import React from "react";
 import Arrow from "../assets/arrow.svg";
 export default function Hero() {
   return (
-    <div className="hero-container-title w-100">
-      <h2 className="text-white fw-bold fs-1">
+    <div className="hero-container-title w-100 animate__animated animate__backInLeft">
+      <h2 className="text-white fw-bold fs-1 ">
         We build beautiful and realible web solutions
       </h2>
       <p className="text-secondary fs-4 hero-container w-100">
